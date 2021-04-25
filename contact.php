@@ -24,14 +24,14 @@
 							<img src="img/simple-house-logo.png" alt="Logo" class="tm-site-logo" /> 
 							<div class="tm-site-text-box">
 								<h1 class="tm-site-title">House Cafe</h1>
-								<h6 class="tm-site-description">siap melayani anda</h6>	
+								<h6 class="tm-site-description">Siap melayani anda</h6>	
 							</div>
 						</div>
 						<nav class="col-md-6 col-12 tm-nav">
 							<ul class="tm-nav-ul">
-								<li class="tm-nav-li"><a href="index.html" class="tm-nav-link">Home</a></li>
-								<li class="tm-nav-li"><a href="about.html" class="tm-nav-link">About</a></li>
-								<li class="tm-nav-li"><a href="contact.html" class="tm-nav-link active">Contact</a></li>
+								<li class="tm-nav-li"><a href="index.php" class="tm-nav-link">Home</a></li>
+								<li class="tm-nav-li"><a href="about.php" class="tm-nav-link">About</a></li>
+								<li class="tm-nav-li"><a href="contact.php" class="tm-nav-link active">Contact</a></li>
 							</ul>
 						</nav>	
 					</div>
