@@ -120,9 +120,6 @@
 							<div class="panel">
 							  <p>Anda bisa take away makanan dan minuman di cafe kami. </p>
 							</div>
-							
-						
-							</div>
 						</div>	
 					</div>
 				</div>
