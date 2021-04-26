@@ -125,10 +125,9 @@
 				</div>
 			</div>
 		</main>
-
+		
 		<footer class="tm-footer text-center">
-			<p>Copyright &copy; 2021 House Cafe
-	
+			<p>Copyright &copy; 2021 House Cafe</p>
 		</footer>
 	</div>
 	<script src="js/jquery.min.js"></script>
