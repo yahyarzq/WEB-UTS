@@ -188,7 +188,7 @@ html {
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 17px;
-  background-color:  rgb(119, 112, 112);
+  background-color:  rgba(56, 51, 51, 0.932);
   overflow-x: hidden;
 }
 
@@ -468,7 +468,7 @@ p, address {
 }
 
 .tm-footer a {
-  color: #626364;
+  color: #fefeff;
   text-decoration: none;
 }
 
