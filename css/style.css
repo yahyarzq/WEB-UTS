@@ -195,7 +195,7 @@ html {
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 17px;
-  background-color: #ccc;
+  background-color:  rgb(255, 255, 255);
   overflow-x: hidden;
 }
 
