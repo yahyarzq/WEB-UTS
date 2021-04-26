@@ -318,7 +318,7 @@
 								Segala sesuatu yang kami sajikan mulai dari Makanan hingga Desserts, Coffe, & lainnya
 								dibuat sesuai pesanan
 								hanya dengan menggunakan bahan-bahan segar dan berkualitas tinggi. </p>
-							<a href="about.php class="tm-btn tm-btn-default tm-right">Read More</a>
+							<a href="about.php" class="tm-btn tm-btn-default tm-right">Read More</a>
 						</div>
 					</div>
 				</div>
