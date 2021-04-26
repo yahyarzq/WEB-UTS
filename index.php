@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<title>House Cafe</title>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" />
-	<link href="css/templatemo-style.css" rel="stylesheet" />
+	<link href="css/style.css" rel="stylesheet" />
 </head>
 
 
@@ -305,11 +305,10 @@
 				</div> <!-- gallery page 3 -->
 			</div>
 		</main>
-		 </div>
 		<footer class="tm-footer text-center">
 			<p>Copyright &copy; 2021 House Cafe</p>
 		</footer>
-	
+	</div>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/parallax.min.js"></script>
 	<script>
