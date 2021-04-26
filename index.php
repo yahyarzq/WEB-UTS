@@ -13,8 +13,7 @@
 
 <body>
 
-	<div class="container">
-		<!-- Top box -->
+	
 		<!-- Logo & Site Name -->
 		<div class="placeholder">
 			<div class="parallax-window" data-parallax="scroll" data-image-src="img/simple-house-01.jpg">
@@ -308,7 +307,7 @@
 		<footer class="tm-footer text-center">
 			<p>Copyright &copy; 2021 House Cafe</p>
 		</footer>
-	</div>
+	
 	<script src="js/jquery.min.js"></script>
 	<script src="js/parallax.min.js"></script>
 	<script>
