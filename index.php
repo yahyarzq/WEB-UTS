@@ -303,6 +303,26 @@
 						</figure>
 					</article>
 				</div> <!-- gallery page 3 -->
+				<div class="tm-section tm-container-inner">
+				<div class="row">
+					<div class="col-md-6">
+						<figure class="tm-description-figure">
+							<img src="img/img-01.jpg" alt="Image" class="img-fluid" />
+						</figure>
+					</div>
+					<div class="col-md-6">
+						<div class="tm-description-box">
+							<h4 class="tm-gallery-title">Tentang House Cafe</h4>
+							<p class="tm-mb-45">Di House Cafe, Anda akan menemukan makanan dan minuman yang disiapkan
+								segar setiap hari.
+								Segala sesuatu yang kami sajikan mulai dari Makanan hingga Desserts, Coffe, & lainnya
+								dibuat sesuai pesanan
+								hanya dengan menggunakan bahan-bahan segar dan berkualitas tinggi. </p>
+							<a href="about.php class="tm-btn tm-btn-default tm-right">Read More</a>
+						</div>
+					</div>
+				</div>
+			</div>
 			</div>
 		</main>
 		<footer class="tm-footer text-center">
