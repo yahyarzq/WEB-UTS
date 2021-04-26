@@ -307,7 +307,7 @@
 				<div class="row">
 					<div class="col-md-6">
 						<figure class="tm-description-figure">
-							<img src="img/img-01.jpg" alt="Image" class="img-fluid" />
+							<img src="img/01.jpg" alt="Image" class="img-fluid" />
 						</figure>
 					</div>
 					<div class="col-md-6">
