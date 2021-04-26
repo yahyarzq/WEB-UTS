@@ -305,10 +305,11 @@
 				</div> <!-- gallery page 3 -->
 			</div>
 		</main>
+		 </div>
 		<footer class="tm-footer text-center">
 			<p>Copyright &copy; 2021 House Cafe</p>
 		</footer>
-	</div>
+	
 	<script src="js/jquery.min.js"></script>
 	<script src="js/parallax.min.js"></script>
 	<script>
