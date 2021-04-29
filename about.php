@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-12">
 						<div class="placeholder-2">
-							<div class="parallax-window-2" data-parallax="scroll" data-image-src="img/about-05.webp" type="image/webp">
+							<div class="parallax-window-2" data-parallax="scroll" data-image-src="img/about-05.webp">
 							</div>
 						</div>
 					</div>
