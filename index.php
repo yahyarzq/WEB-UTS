@@ -17,7 +17,7 @@
 		<!-- Top box -->
 		<!-- Logo & Site Name -->
 		<div class="placeholder">
-			<div class="parallax-window" data-parallax="scroll" data-image-src="img/simple-house-01.jpg">
+			<div class="parallax-window" data-parallax="scroll" data-image-src="img/simple-house-01.webp">
 				<div class="tm-header">
 					<div class="row tm-header-inner">
 						<div class="col-md-6 col-12">
@@ -64,7 +64,7 @@
 				<div id="tm-gallery-page-coffe" class="tm-gallery-page">
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/01.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/01.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Americano</h4>
 								<p class="tm-gallery-description">Kopi ini merupakan campuran dari kopi espresso yang
@@ -75,7 +75,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/02.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/02.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Cappuccino</h4>
 								<p class="tm-gallery-description">Cappucino merupakan campuran antara espresso, susu
@@ -87,7 +87,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/03.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/03.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Espresso</h4>
 								<p class="tm-gallery-description">Kopi ini merupakan kopi hitam yang aromanya sangat
@@ -98,7 +98,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/04.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/04.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Latte</h4>
 								<p class="tm-gallery-description">Komposisi kopi dan susu pada latte yaitu 3:1 dan
@@ -110,7 +110,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/05.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/05.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Luwak</h4>
 								<p class="tm-gallery-description">Kopi luwak adalah biji kopi yang dimakan oleh luwak
@@ -122,7 +122,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/06.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/06.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Moccachino</h4>
 								<p class="tm-gallery-description">Moccachino merupakan jenis kopi campuran espresso,
@@ -139,7 +139,7 @@
 				<div id="tm-gallery-page-food" class="tm-gallery-page hidden">
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/07.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/07.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Ayam geprek</h4>
 								<p class="tm-gallery-description">Ayam geprek kami memiliki cita rasa yang pedas dan
@@ -151,7 +151,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/08.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/08.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Bakso</h4>
 								<p class="tm-gallery-description">Bakso yang kami olah menggunakan daging sapi yang
@@ -163,7 +163,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/09.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/09.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Indomie</h4>
 								<p class="tm-gallery-description">Indomie goreng disajikan dengan telur setegah matang.
@@ -175,7 +175,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/10.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/10.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Nasgor</h4>
 								<p class="tm-gallery-description">Nasi goreng yang kami sajikan dengan perpaduan cita
@@ -187,7 +187,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/11.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/11.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Sate</h4>
 								<p class="tm-gallery-description">Sate ayam merupakan makanan khas Indonesia yang di
@@ -199,7 +199,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/12.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/12.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Spagetty</h4>
 								<p class="tm-gallery-description">Mie khas italia ini bisa anda nikmati dengan saus yang
@@ -215,7 +215,7 @@
 				<div id="tm-gallery-page-desserts" class="tm-gallery-page hidden">
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/brownies.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/brownies.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Brownies</h4>
 								<p class="tm-gallery-description">Cake yang mempunyai rasa manis dan pahit coklat
@@ -226,7 +226,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/chips.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/chips.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Chips</h4>
 								<p class="tm-gallery-description">Kentang yang di olah dengan di potong tipis dan di
@@ -237,7 +237,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/churros.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/churros.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Churros</h4>
 								<p class="tm-gallery-description">Churros adalah makanan khas Italy yang mempunyai rasa
@@ -248,7 +248,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/kentang gorengg.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/kentang gorengg.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Kentang goreng</h4>
 								<p class="tm-gallery-description">Kentang goreng yang crispy di luar dan lembut didalam
@@ -260,7 +260,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/martabak.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/martabak.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Martabak </h4>
 								<p class="tm-gallery-description">Martabak yang kami sajikan dengan bahan berkualitas
@@ -272,7 +272,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/Onion ring.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/Onion ring.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Onion ring</h4>
 								<p class="tm-gallery-description">Terbuat dari bawang bombai yang dibalut dengan tepung
@@ -283,7 +283,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/pancake.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/pancake.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Pancake</h4>
 								<p class="tm-gallery-description">Pancake yang di sajikan Bersama sirup.</p>
@@ -293,7 +293,7 @@
 					</article>
 					<article class="col-lg-3 col-md-4 col-sm-6 col-12 tm-gallery-item">
 						<figure>
-							<img src="img/gallery/roti bakar.jpg" alt="Image" class="img-fluid tm-gallery-img" />
+							<img src="img/gallery/roti bakar.webp" alt="Image" class="img-fluid tm-gallery-img" />
 							<figcaption>
 								<h4 class="tm-gallery-title">Roti bakar</h4>
 								<p class="tm-gallery-description">Terbuat dari roti yang dipanggang dengan berbagai
@@ -307,7 +307,7 @@
 				<div class="row">
 					<div class="col-md-6">
 						<figure class="tm-description-figure">
-							<img src="img/01.jpg" alt="Image" class="img-fluid" />
+							<img src="img/01.webp" alt="Image" class="img-fluid" />
 						</figure>
 					</div>
 					<div class="col-md-6">
